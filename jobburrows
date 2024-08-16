@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JOB BURROW</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Tawk.to Chat Widget -->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function() {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/66bf7f320cca4f8a7a76db45/1i5e0hnu4';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!-- End of Tawk.to Script -->
+
+    <header>
+        <h1>JOB BURROW</h1>
+        <nav>
+            <ul>
+                <li><a href="#jobs">Available Jobs</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="jobs">
+            <h2>We Offer the Following Jobs</h2>
+            <ul>
+                <li>Payroll Manager</li>
+                <li>Clerk</li>
+                <li>Sales Representative</li>
+                <li>Account Manager</li>
+            </ul>
+
+            <div class="job-images">
+                <img src="images/clerk.jpg" alt="Clerk" class="job-image">
+                <img src="images/account-manager.jpg" alt="Account Manager" class="job-image">
+                <img src="images/sales-representative.jpg" alt="Sales Representative" class="job-image">
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Address: 4055 St E 162nd, Lancaster, CA 93535</p>
+            <p>Email: <a href="mailto:jobburrow@outlook.com">jobburrow@outlook.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 JOB BURROW. All rights reserved.</p>
+    </footer>
+</body>
+</html>
